@@ -1,4 +1,5 @@
 # Weather Forecasting System- Previsão e Análise do Tempo via Linha de Comando
+* TODAS AS FUNCIONALIDADES FORAM APLICADAS, FALTA APENAS O REFATORAMENTO QUE ESTOU FAZENDO EM ABSTRACT FACTORY
 
 
 ## Introdução
